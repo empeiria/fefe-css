@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
   padding-top: 20px;
   padding-bottom: 60px;
-  font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; font-weight:300; font-stretch:normal;
+  font-family: "Roboto", sans-serif; font-weight:300; font-stretch:normal;
 }
 
 a {
@@ -12,7 +12,7 @@ a {
 }
 
 h2 {
-  font-family: Georgia;
+  font-family: Roboto;
   font-weight: normal;
   font-size: 80px;
   margin-bottom: 20px;
@@ -29,7 +29,7 @@ h2 a {
 }
 
 h3 {
-  font-family: Georgia;
+  font-family: Roboto;
   font-size: 24px;
   color: #444444;
   text-shadow: 1px 1px 0px white;
@@ -80,7 +80,7 @@ body > ul > li > a:first-child {
   position: absolute;
   bottom: 30px;
   right: 40px;
-  font-family: Georgia;
+  font-family: Roboto;
   font-size: 12px;
 }
 
@@ -90,7 +90,7 @@ body > ul > li > a:first-child::before {
 }
 
 blockquote {
-  font-family: Georgia;
+  font-family: Roboto;
   font-style: italic;
   padding-left: 10px;
   margin-left: 20px;
